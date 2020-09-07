@@ -27,7 +27,8 @@ Otherwise, i.e. with the server not running, a standard "Bad Request" error mess
 The code is 100% commented, so feel free to peruse!
 
 ## Screenshots
-**Server:**
+##Server:
+
 ![server.js](https://i.imgur.com/vlzRxrf.jpg)
 
 
