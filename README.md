@@ -17,6 +17,8 @@ Most errors occur when there is bad input or the server isn't running. These err
 
 Otherwise, i.e. with the server not running, a standard "Bad Request" error message is displayed.
 
+**If server is not started first -> will throw error: net::ERR_ABORTED 431 (Request Header Fields Too Large)**
+
 ## Requirements and Setup
 
  - `npm` package manager
