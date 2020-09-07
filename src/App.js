@@ -15,8 +15,8 @@ function App() {
         {/* This row is for the header and site description */}
         <div className="row">
           <div className="col-sm">
-            <h1 className="header">MedianPrimes</h1>
-            <p className="description">Enter a number and click submit. You will receive the median element(s) of the list of primes under that number.</p>
+            <h1 className="header">Median Primes</h1>
+            <p className="description">Enter any number and click submit. You will receive the median element(s) of the list of primes under that number.</p>
           </div>
         </div>
         {/* This row is just for the number input */}
@@ -26,7 +26,7 @@ function App() {
         <div className="row">
           <div className="col-sm">
             <footer className="footer">
-              <h6>Developed by AjmalTheDeveloper. <a href="https://github.com/Alex-Moh">GitHub</a></h6>
+              <h6>Developed by AjmalTheDeveloper. <a href="https://github.com/Alex-Moh/MedianPrimeNumbers-TouchBistro">GitHub</a></h6>
             </footer>
           </div>
         </div>
