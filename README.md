@@ -21,7 +21,7 @@ Otherwise, i.e. with the server not running, a standard "Bad Request" error mess
 
  - `npm` package manager
  - Run `npm install` to install `package.json` packages
- - Run `npm start` from root directory, and `node server.js` from the `src/server/` directory
+ - Run `node server.js` from the `src/server/` directory and **only then**` run npm start` from root directory
 
 ## About the Code
 The code is 100% commented, so feel free to peruse!
