@@ -26,7 +26,7 @@ function App() {
         <div className="row">
           <div className="col-sm">
             <footer className="footer">
-              <h6>Developed by AjmalTheDeveloper. <a href="https://github.com/Alex-Moh" target="_blank">GitHub</a></h6>
+              <h6>Developed by AjmalTheDeveloper. <a href="https://github.com/Alex-Moh">GitHub</a></h6>
             </footer>
           </div>
         </div>
