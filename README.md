@@ -28,9 +28,9 @@ The code is 100% commented, so feel free to peruse!
 
 ## Screenshots
 **Server:**
-![server.js](https://i.imgur.com/3to94Cu.png)
+![server.js](https://i.imgur.com/vlzRxrf.jpg)
 
 
 **Client:**
-![enter image description here](https://i.imgur.com/6HwaUGN.jpg)
+![enter image description here](https://i.imgur.com/ovA9UWX.jpg)
 
