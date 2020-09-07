@@ -32,5 +32,5 @@ The code is 100% commented, so feel free to peruse!
 
 
 **Client:**
-![enter image description here](https://i.imgur.com/ovA9UWX.jpg)
+![Root Directory](https://i.imgur.com/ovA9UWX.jpg)
 
