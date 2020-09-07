@@ -32,5 +32,5 @@ The code is 100% commented, so feel free to peruse!
 
 
 **Client:**
-![enter image description here](https://i.imgur.com/HreOE62.png)
+![enter image description here](https://imgur.com/6HwaUGN)
 
